@@ -54,3 +54,6 @@ This is a Business performance report of  AtliQ hardware’s last 4 years' sales
 ## Technical Details 
 - **File Type:** SQL, Excel
 - **Data Analysis and Visualization:** PowerBI
+
+## Link to PowerBI File 
+https://app.powerbi.com/groups/me/reports/041d03a8-a773-48b5-bde2-2fad35d2053d/ReportSection?experience=power-bi
